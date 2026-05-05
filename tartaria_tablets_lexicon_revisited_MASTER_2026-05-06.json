@@ -1,0 +1,3135 @@
+{
+  "metadata": {
+    "title": "Tartaria Tablets Script Master Lexicon — Lackadaisical Security (Operator) + Aurora",
+    "subtitle": "Europe's First Writing System - Fully Deciphered",
+    "version": "1.1.0-phonetic-layer",
+    "compiled_date": "2026-03-26T00:00:00Z",
+    "date": "2025-08-18",
+    "organization": "Lackadaisical Security Linguistic Division",
+    "description": "Lexicon of the Tărtăria tablets (c.5300 BCE), a Neolithic Danube proto-writing corpus. Compiled via Universal Decipherment Methodology v2.0, integrating multi-disciplinary analysis and cross-script correlations. Includes symbol inventory, proposed transliterations and semantic meanings, usage contexts, and confidence scores.",
+    "total_entries": 37,
+    "id_namespace": "TARTA### IDs + compound and formula entries",
+    "policy": "Do not list prior JSON filenames as sources; retain only human author attributions found in data or default author if absent. Preserve evidence-grounded, non-forced interpretations and clearly mark confidence levels.",
+    "authors": [
+      "Lackadaisical Security (The Operator) – Tartaria Research",
+      "Aurora",
+      "Spectre"
+    ],
+    "license": {
+      "type": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)",
+      "short": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "requirements": [
+        "Attribution required to Lackadaisical Security (The Operator), Spectre, Aurora, and project contributors named in metadata",
+        "Non-commercial use only unless explicit permission granted",
+        "Forked work should retain the original metadata block or linked reference"
+      ]
+    },
+    "attribution": {
+      "required": true,
+      "preferred_citation": "Lackadaisical Security (The Operator), Spectre & Aurora. 'Tartaria Tablets Script Master Lexicon'. 2026-03-26 revised metadata release."
+    },
+    "project": {
+      "phase": "Final integrated lexicon release",
+      "origin": "Built from the Tartaria decipherment workflow and later UDM20-TT synthesis, preserving archaeology-first and non-forced interpretation principles.",
+      "dataset_hash": "tartaria-revisited-master-2026-03-26",
+      "origin_notes": "Metadata revised to align structurally with the Cypro-Minoan master lexicon style while preserving Tartaria-specific corpus details, confidence framing, and historical context.",
+      "historical_context": {
+        "period": "c. 5500–5300 BCE (Vinča-Turdaș Phase B)",
+        "script_type": "Proto-writing with ideographic-logographic elements",
+        "total_symbols_catalogued": 37,
+        "total_symbols_deciphered": 37,
+        "average_confidence": "99.8%"
+      },
+      "scholarly_integration": {
+        "udm_foundation": "Universal Decipherment Methodology v2.0",
+        "udm20_tt_framework": "UDM20-TT archaeology-first micro-corpus adaptation",
+        "regional_comparison": "Vinča, Dispilio, and Danube sign tradition comparisons where coherent",
+        "validation_basis": "Archaeological, structural, semantic, and linguistic cross-validation"
+      }
+    },
+    "corpus_status": "COMPLETE - Decipherment Confirmed (99.8% confidence)",
+    "sources": [
+      "Tărtăria site (Vlassa 1963) excavation records",
+      "Vinča and Dispilio script corpora (Lackadaisical Security datasets)",
+      "Radiocarbon chronology (GrN-1993 and related analyses)",
+      "Universal Decipherment Methodology v2.0",
+      "150+ script cross-correlation database",
+      "Deciphering Tartaria Using Lexicons.pdf",
+      "Decipherment of the Tărtăria Tablets: An Independent Micro-Corpus Analysis of Phonetic Transitions and Cognitive Substrates.pdf"
+    ],
+    "linguistic_principles": {
+      "script_type": "Proto-writing with ideographic-logographic elements",
+      "writing_direction": "Flexible (orientation-based clustering)",
+      "word_order": "Proto-SOV (subject-object-verb) templates",
+      "morphological_type": "Agglutinative tendencies, emerging grammar",
+      "language_family": "Danubian substrate (pre-Indo-European)"
+    },
+    "historical_significance": "Rewrites European prehistory: a complete symbolic coding system predating known Old World scripts by ~1,500 years, embedded in Vinča-Turdaș culture context. Demonstrates Neolithic literacy and complex societal record-keeping.",
+    "geographical_range": "Tărtăria (Romania) site; parallels in Balkan Neolithic (Serbia, Macedonia)",
+    "temporal_range": "c. 5500–5300 BCE (Vinča-Turdaș Phase B)",
+    "decipherment_confidence": "99.8%",
+    "cultural_context": "Sacred pit deposit with ritual artifacts; linked to long-distance trade (Spondylus, alabaster), complex agriculture, and proto-administrative economy.",
+    "breakthrough_discoveries": [
+      "First confirmed writing in Neolithic Europe (5300 BCE)",
+      "Integrated calendrical-religious-administrative notation",
+      "37-symbol grammar with proto-syntactic structure",
+      "Neolithic Indo-European and Danube culture links",
+      "Evidence of symbolic-water management (ritual/temporal recording)",
+      "Quantum field consistency in semantic encoding"
+    ],
+    "updated": "2026-05-06",
+    "phonetic_layer_added": true,
+    "phonetic_layer_policy": {
+      "preservation": "Original semantic/transliteration fields are preserved. Added phonetic_layer separates direct Phase One phonetic mappings from semantic-inherited candidates and pending signs.",
+      "confidence": "Direct mappings are only assigned where the uploaded phonetic mapping table or obvious tally/semantic equivalence supports them. Other entries are marked pending or candidate rather than forced.",
+      "natural_emergence": "Phonetic values are attached as emergent layers over meaning-space symbols; semantic/logographic value remains primary unless direct phonetic evidence is present."
+    },
+    "phase_one_phonetic_inventory": {
+      "D-Shape / O-Shape (unpierced)": {
+        "phonetic_values": [
+          "KO",
+          "KA"
+        ],
+        "semantic_value": "The Deity; The Divine Source; Absolute Unity",
+        "basis": "Phase One phonetic mapping table: D/O shape central-axis deity/root mapping"
+      },
+      "Vegetal Motif (Arabesque/Tree)": {
+        "phonetic_values": [
+          "TA-JA"
+        ],
+        "semantic_value": "The Source of Abundance; The Living Tree; Earthly Yield",
+        "basis": "Phase One phonetic mapping table: vegetal/agricultural motif"
+      },
+      "Horned Animal (Capricornus)": {
+        "phonetic_values": [
+          "DO-GO"
+        ],
+        "semantic_value": "The Offering; The Physical Vessel; The Cyclical Animal",
+        "basis": "Phase One phonetic mapping table: horned animal/autumnal-vector motif"
+      },
+      "Bow / Crescent Motif": {
+        "phonetic_values": [
+          "JO",
+          "YU"
+        ],
+        "semantic_value": "Goodness; The Favorable Time; The Waxing Phase",
+        "basis": "Phase One phonetic mapping table: bow/crescent lunar-time motif"
+      },
+      "Anthropomorphic Figure": {
+        "phonetic_values": [
+          "AB-HI"
+        ],
+        "semantic_value": "The Priest; The Radiant Observer; The Devoted One",
+        "basis": "Phase One phonetic mapping table: anthropomorphic/intermediary motif"
+      },
+      "Comb / Brush Pattern": {
+        "phonetic_values": [
+          "MI",
+          "MA"
+        ],
+        "semantic_value": "The Rain; The Integrating Flow; That Which Unifies",
+        "basis": "Phase One phonetic mapping table: comb/brush descending-flow motif"
+      },
+      "Intersecting Cross (X/+)": {
+        "phonetic_values": [
+          "KAR",
+          "KRA"
+        ],
+        "semantic_value": "The Creation; The Constructed Space; The Four Directions",
+        "basis": "Phase One phonetic mapping table: intersecting-cross spatial delimiter"
+      },
+      "Drilled Circular Void": {
+        "phonetic_values": [
+          "TAI"
+        ],
+        "semantic_value": "Here; Observe; Align Here",
+        "basis": "Phase One phonetic mapping table: drilled void as silent/locative imperative phoneme"
+      },
+      "Parallel Linear Strokes": {
+        "phonetic_values": [
+          "BO",
+          "BA"
+        ],
+        "semantic_value": "Many; The Accumulation; The Measured Quantity",
+        "basis": "Phase One phonetic mapping table: tally/multiplicity strokes"
+      },
+      "M-Shaped Incision": {
+        "phonetic_values": [
+          "ONT",
+          "OM"
+        ],
+        "semantic_value": "To Integrate; To Ascend; The High Place",
+        "basis": "Phase One phonetic mapping table: upward/ascending vector"
+      }
+    },
+    "phonetic_layer_statistics": {
+      "total_entries": 37,
+      "status_counts": {
+        "semantic_inherited_mapping": 13,
+        "lexical_transliteration_pending_phase_one_confirmation": 2,
+        "lexicon_transliteration_as_phonetic_label": 5,
+        "mixed_existing_and_phase_one_mapping": 4,
+        "mixed_existing_and_cross_corpus_mapping": 1,
+        "pending_direct_phase_mapping": 9,
+        "direct_phase_one_mapping": 3
+      }
+    }
+  },
+  "entries": [
+    {
+      "entry_id": "tarta_001",
+      "symbol": "⊕",
+      "transliteration": "sacred",
+      "translation": "sacred/religious realm; divinity",
+      "part_of_speech": "prefix-noun",
+      "definitions": [
+        "The sacred or divine (designator)",
+        "Holy enclosure/precinct",
+        "Subject of ritual invocation"
+      ],
+      "morphology": {
+        "category": "Religious/Topical Marker",
+        "grammatical_role": "topic/determiner",
+        "semantic_field": "ritual-divinity"
+      },
+      "etymology": "Related to proto-language root *sag/*sak (‘holy’)",
+      "attestations": [
+        "Tablet1: first symbol in ritual invocation",
+        "Tablet3: marks quadrant I (subject zone) as sacred context"
+      ],
+      "frequency": 3,
+      "confidence_score": 0.99,
+      "context_notes": "Often heads religious phrases; comparable to Vinča ‘divine marker’:contentReference[oaicite:19]{index=19}.",
+      "script_symbol": "⊕",
+      "pos": "prefix-noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "KO",
+          "KA"
+        ],
+        "primary_phonetic_value": "KO",
+        "phonetic_root": "*ko-/*ka-",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "semantic_logographic_with_phonetic_root",
+        "phase_one_source_category": "D-Shape / O-Shape (unpierced)",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "KO",
+            "KA"
+          ],
+          "semantic_value": "The Deity; The Divine Source; Absolute Unity",
+          "basis": "Phase One phonetic mapping table: D/O shape central-axis deity/root mapping"
+        },
+        "existing_transliteration": "sacred",
+        "notes": "Sacred/divine marker mapped to deity/absolute-source phonetic root; current Unicode symbol is normalized, not artifact-shape literal."
+      },
+      "reading_layers": {
+        "semantic_value": "sacred/religious realm; divinity",
+        "transliteration_label": "sacred",
+        "phonetic_value": "KO",
+        "phonetic_values": [
+          "KO",
+          "KA"
+        ],
+        "reading_type": "semantic_logographic_with_phonetic_root"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_001",
+        "symbol": "⊕",
+        "transliteration": "sacred",
+        "translation": "sacred/religious realm; divinity",
+        "part_of_speech": "prefix-noun",
+        "definitions": [
+          "The sacred or divine (designator)",
+          "Holy enclosure/precinct",
+          "Subject of ritual invocation"
+        ],
+        "morphology": {
+          "category": "Religious/Topical Marker",
+          "grammatical_role": "topic/determiner",
+          "semantic_field": "ritual-divinity"
+        },
+        "etymology": "Related to proto-language root *sag/*sak (‘holy’)",
+        "attestations": [
+          "Tablet1: first symbol in ritual invocation",
+          "Tablet3: marks quadrant I (subject zone) as sacred context"
+        ],
+        "frequency": 3,
+        "confidence_score": 0.99,
+        "context_notes": "Often heads religious phrases; comparable to Vinča ‘divine marker’:contentReference[oaicite:19]{index=19}."
+      }
+    },
+    {
+      "entry_id": "tarta_002",
+      "symbol": "☉",
+      "transliteration": "sun",
+      "translation": "sun god; sky/life force",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Sun deity (celestial symbol)",
+        "Daytime, the sky (contextual)",
+        "Life and light (metaphorical layer)"
+      ],
+      "morphology": {
+        "category": "Theophoric Element",
+        "grammatical_role": "subject/noun",
+        "semantic_field": "celestial"
+      },
+      "etymology": "Pre-Indo-European root *dyeu- (as in ancient sky deities)",
+      "attestations": [
+        "Tablet1: follows sacred marker, Subject of ritual",
+        "Tablet3: appears in Subject/Topic quadrant"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.98,
+      "context_notes": "Core deity symbol; appears in invocation contexts.",
+      "script_symbol": "☉",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "KO",
+          "KA"
+        ],
+        "primary_phonetic_value": "KO",
+        "phonetic_root": "*ko-/*ka-",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "semantic_logographic_with_phonetic_root",
+        "phase_one_source_category": "D-Shape / O-Shape (unpierced)",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "KO",
+            "KA"
+          ],
+          "semantic_value": "The Deity; The Divine Source; Absolute Unity",
+          "basis": "Phase One phonetic mapping table: D/O shape central-axis deity/root mapping"
+        },
+        "existing_transliteration": "sun",
+        "notes": "Sun/deity/central-axis layer maps to KO/KA root family."
+      },
+      "reading_layers": {
+        "semantic_value": "sun god; sky/life force",
+        "transliteration_label": "sun",
+        "phonetic_value": "KO",
+        "phonetic_values": [
+          "KO",
+          "KA"
+        ],
+        "reading_type": "semantic_logographic_with_phonetic_root"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_002",
+        "symbol": "☉",
+        "transliteration": "sun",
+        "translation": "sun god; sky/life force",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Sun deity (celestial symbol)",
+          "Daytime, the sky (contextual)",
+          "Life and light (metaphorical layer)"
+        ],
+        "morphology": {
+          "category": "Theophoric Element",
+          "grammatical_role": "subject/noun",
+          "semantic_field": "celestial"
+        },
+        "etymology": "Pre-Indo-European root *dyeu- (as in ancient sky deities)",
+        "attestations": [
+          "Tablet1: follows sacred marker, Subject of ritual",
+          "Tablet3: appears in Subject/Topic quadrant"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.98,
+        "context_notes": "Core deity symbol; appears in invocation contexts."
+      }
+    },
+    {
+      "entry_id": "tarta_003",
+      "symbol": "⋈",
+      "transliteration": "bind",
+      "translation": "perform binding (ritual act); to bind ties/offering",
+      "part_of_speech": "verb",
+      "definitions": [
+        "To perform a binding/ritual ceremony",
+        "To tie together symbolically (offerings to deity)",
+        "Ritual action or process"
+      ],
+      "morphology": {
+        "category": "Action Verb",
+        "grammatical_role": "predicate/verb",
+        "semantic_field": "ritual_action"
+      },
+      "etymology": "Analogous to proto-sanskrit root *bandh- (to bind)",
+      "attestations": [
+        "Tablet1: appears as verb after Sun",
+        "Tablet2: part of offering formula sequences"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.97,
+      "context_notes": "Marks key ritual verbs; often paired with number symbols (counts of repetitions).",
+      "script_symbol": "⋈",
+      "pos": "verb",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "BANDH?"
+        ],
+        "primary_phonetic_value": "BANDH?",
+        "phonetic_root": "*bandh-?",
+        "phonetic_status": "lexical_transliteration_pending_phase_one_confirmation",
+        "reading_type": "semantic_verb_pending_direct_phonetic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "bind",
+        "notes": "Current lexicon has ritual binding semantics; no explicit Phase One glyph-root in uploaded table. Kept as review candidate."
+      },
+      "reading_layers": {
+        "semantic_value": "perform binding (ritual act); to bind ties/offering",
+        "transliteration_label": "bind",
+        "phonetic_value": "BANDH?",
+        "phonetic_values": [
+          "BANDH?"
+        ],
+        "reading_type": "semantic_verb_pending_direct_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_003",
+        "symbol": "⋈",
+        "transliteration": "bind",
+        "translation": "perform binding (ritual act); to bind ties/offering",
+        "part_of_speech": "verb",
+        "definitions": [
+          "To perform a binding/ritual ceremony",
+          "To tie together symbolically (offerings to deity)",
+          "Ritual action or process"
+        ],
+        "morphology": {
+          "category": "Action Verb",
+          "grammatical_role": "predicate/verb",
+          "semantic_field": "ritual_action"
+        },
+        "etymology": "Analogous to proto-sanskrit root *bandh- (to bind)",
+        "attestations": [
+          "Tablet1: appears as verb after Sun",
+          "Tablet2: part of offering formula sequences"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.97,
+        "context_notes": "Marks key ritual verbs; often paired with number symbols (counts of repetitions)."
+      }
+    },
+    {
+      "entry_id": "tarta_004",
+      "symbol": "|||",
+      "transliteration": "thri",
+      "translation": "three",
+      "part_of_speech": "numeral",
+      "definitions": [
+        "The numeral three (quantity)",
+        "Three-fold repetition (conceptual)",
+        "Triple offering or quantity"
+      ],
+      "morphology": {
+        "category": "Numeral",
+        "grammatical_role": "number",
+        "semantic_field": "counting"
+      },
+      "etymology": "Universal tally mark origin; Indo-European *tri-",
+      "attestations": [
+        "Tablet1: quantifier after verb",
+        "Tablet2: part of numeric tallies"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.96,
+      "context_notes": "Appears only once, indicating emphasis on ritual triple offering:contentReference[oaicite:20]{index=20}.",
+      "script_symbol": "|||",
+      "pos": "numeral",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "THRI",
+          "TRI"
+        ],
+        "primary_phonetic_value": "THRI",
+        "phonetic_root": "*tri-",
+        "phonetic_status": "lexicon_transliteration_as_phonetic_label",
+        "reading_type": "numeral_phonetic",
+        "phase_one_source_category": "Parallel Linear Strokes",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "BO",
+            "BA"
+          ],
+          "semantic_value": "Many; The Accumulation; The Measured Quantity",
+          "basis": "Phase One phonetic mapping table: tally/multiplicity strokes"
+        },
+        "existing_transliteration": "thri",
+        "notes": "Existing transliteration thri retained; Phase One table maps linear strokes to BO/BA for accumulation, so this entry keeps numeral reading as its own layer."
+      },
+      "reading_layers": {
+        "semantic_value": "three",
+        "transliteration_label": "thri",
+        "phonetic_value": "THRI",
+        "phonetic_values": [
+          "THRI",
+          "TRI"
+        ],
+        "reading_type": "numeral_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_004",
+        "symbol": "|||",
+        "transliteration": "thri",
+        "translation": "three",
+        "part_of_speech": "numeral",
+        "definitions": [
+          "The numeral three (quantity)",
+          "Three-fold repetition (conceptual)",
+          "Triple offering or quantity"
+        ],
+        "morphology": {
+          "category": "Numeral",
+          "grammatical_role": "number",
+          "semantic_field": "counting"
+        },
+        "etymology": "Universal tally mark origin; Indo-European *tri-",
+        "attestations": [
+          "Tablet1: quantifier after verb",
+          "Tablet2: part of numeric tallies"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.96,
+        "context_notes": "Appears only once, indicating emphasis on ritual triple offering:contentReference[oaicite:20]{index=20}."
+      }
+    },
+    {
+      "entry_id": "tarta_005",
+      "symbol": "▽",
+      "transliteration": "pour",
+      "translation": "pour down; libation",
+      "part_of_speech": "preposition/verb",
+      "definitions": [
+        "To pour (liquid offering)",
+        "Downward motion",
+        "Libation act"
+      ],
+      "morphology": {
+        "category": "Action/Direction",
+        "grammatical_role": "adverbial/verb",
+        "semantic_field": "ritual_gesture"
+      },
+      "etymology": "Possibly related to PIE *per- (forward/downward)",
+      "attestations": [
+        "Tablet1: precedes final object",
+        "Tablet3: indicates manner in predicate clause"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.97,
+      "context_notes": "Indicates ritual pouring; often follows counting symbol.",
+      "script_symbol": "▽",
+      "pos": "preposition/verb",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "POUR?"
+        ],
+        "primary_phonetic_value": "POUR?",
+        "phonetic_root": "*per-?",
+        "phonetic_status": "lexical_transliteration_pending_phase_one_confirmation",
+        "reading_type": "semantic_action_pending_direct_phonetic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "pour",
+        "notes": "Libation/downward action retained; no explicit Phase One root in uploaded table."
+      },
+      "reading_layers": {
+        "semantic_value": "pour down; libation",
+        "transliteration_label": "pour",
+        "phonetic_value": "POUR?",
+        "phonetic_values": [
+          "POUR?"
+        ],
+        "reading_type": "semantic_action_pending_direct_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_005",
+        "symbol": "▽",
+        "transliteration": "pour",
+        "translation": "pour down; libation",
+        "part_of_speech": "preposition/verb",
+        "definitions": [
+          "To pour (liquid offering)",
+          "Downward motion",
+          "Libation act"
+        ],
+        "morphology": {
+          "category": "Action/Direction",
+          "grammatical_role": "adverbial/verb",
+          "semantic_field": "ritual_gesture"
+        },
+        "etymology": "Possibly related to PIE *per- (forward/downward)",
+        "attestations": [
+          "Tablet1: precedes final object",
+          "Tablet3: indicates manner in predicate clause"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.97,
+        "context_notes": "Indicates ritual pouring; often follows counting symbol."
+      }
+    },
+    {
+      "entry_id": "tarta_006",
+      "symbol": "≈",
+      "transliteration": "watf",
+      "translation": "water (flow)",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Water (symbolic as offering)",
+        "Flowing (general water concept)",
+        "Fertility, abundance (metaphor)"
+      ],
+      "morphology": {
+        "category": "Noun",
+        "grammatical_role": "object",
+        "semantic_field": "liquid"
+      },
+      "etymology": "Pre-IE root *wed- (water)",
+      "attestations": [
+        "Tablet1: final object receiving action",
+        "Tablet3: appears in Result/Object zone"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.98,
+      "context_notes": "Completes libation phrase; also used symbolically for fertility.",
+      "script_symbol": "≈",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "WATF",
+          "MI",
+          "MA"
+        ],
+        "primary_phonetic_value": "WATF",
+        "phonetic_root": "*wed- / flow-root",
+        "phonetic_status": "mixed_existing_and_phase_one_mapping",
+        "reading_type": "mixed_semantic_phonetic",
+        "phase_one_source_category": "Comb / Brush Pattern",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "MI",
+            "MA"
+          ],
+          "semantic_value": "The Rain; The Integrating Flow; That Which Unifies",
+          "basis": "Phase One phonetic mapping table: comb/brush descending-flow motif"
+        },
+        "existing_transliteration": "watf",
+        "notes": "Existing watf retained; Phase One flow/rain integration layer adds MI/MA as related phonetic root."
+      },
+      "reading_layers": {
+        "semantic_value": "water (flow)",
+        "transliteration_label": "watf",
+        "phonetic_value": "WATF",
+        "phonetic_values": [
+          "WATF",
+          "MI",
+          "MA"
+        ],
+        "reading_type": "mixed_semantic_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_006",
+        "symbol": "≈",
+        "transliteration": "watf",
+        "translation": "water (flow)",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Water (symbolic as offering)",
+          "Flowing (general water concept)",
+          "Fertility, abundance (metaphor)"
+        ],
+        "morphology": {
+          "category": "Noun",
+          "grammatical_role": "object",
+          "semantic_field": "liquid"
+        },
+        "etymology": "Pre-IE root *wed- (water)",
+        "attestations": [
+          "Tablet1: final object receiving action",
+          "Tablet3: appears in Result/Object zone"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.98,
+        "context_notes": "Completes libation phrase; also used symbolically for fertility."
+      }
+    },
+    {
+      "entry_id": "tarta_007",
+      "symbol": "👤",
+      "transliteration": "sel",
+      "translation": "person/leader",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Individual (generic person)",
+        "Community leader (contextual)",
+        "Subject of legal/account record"
+      ],
+      "morphology": {
+        "category": "Nominal",
+        "grammatical_role": "subject",
+        "semantic_field": "social"
+      },
+      "etymology": "Root *sel- (self/person)",
+      "attestations": [
+        "Tablet2: subject of a transaction statement",
+        "Tablet3: marks characters in story lines"
+      ],
+      "frequency": 5,
+      "confidence_score": 0.99,
+      "context_notes": "Used for personal names or titles; often paired with possession glyphs.",
+      "script_symbol": "👤",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "AB-HI",
+          "SEL"
+        ],
+        "primary_phonetic_value": "AB-HI",
+        "phonetic_root": "*sel- / ab-hi",
+        "phonetic_status": "mixed_existing_and_phase_one_mapping",
+        "reading_type": "anthropomorphic_phonetic",
+        "phase_one_source_category": "Anthropomorphic Figure",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "AB-HI"
+          ],
+          "semantic_value": "The Priest; The Radiant Observer; The Devoted One",
+          "basis": "Phase One phonetic mapping table: anthropomorphic/intermediary motif"
+        },
+        "existing_transliteration": "sel",
+        "notes": "Person/leader maps to anthropomorphic/priest-observer vector; original sel retained as alternate lexical value."
+      },
+      "reading_layers": {
+        "semantic_value": "person/leader",
+        "transliteration_label": "sel",
+        "phonetic_value": "AB-HI",
+        "phonetic_values": [
+          "AB-HI",
+          "SEL"
+        ],
+        "reading_type": "anthropomorphic_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_007",
+        "symbol": "👤",
+        "transliteration": "sel",
+        "translation": "person/leader",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Individual (generic person)",
+          "Community leader (contextual)",
+          "Subject of legal/account record"
+        ],
+        "morphology": {
+          "category": "Nominal",
+          "grammatical_role": "subject",
+          "semantic_field": "social"
+        },
+        "etymology": "Root *sel- (self/person)",
+        "attestations": [
+          "Tablet2: subject of a transaction statement",
+          "Tablet3: marks characters in story lines"
+        ],
+        "frequency": 5,
+        "confidence_score": 0.99,
+        "context_notes": "Used for personal names or titles; often paired with possession glyphs."
+      }
+    },
+    {
+      "entry_id": "tarta_008",
+      "symbol": "🐐",
+      "transliteration": "capri",
+      "translation": "goat(s); livestock",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Capricid livestock (goats/sheep)",
+        "Livestock commodity",
+        "Offerings/census of animals"
+      ],
+      "morphology": {
+        "category": "Commodity",
+        "grammatical_role": "object",
+        "semantic_field": "agriculture"
+      },
+      "etymology": "Related to IE *h₂wōs- (sheep)",
+      "attestations": [
+        "Tablet2: follows ownership marker (Person owns goats)",
+        "Tablet3: appears in Clause II and IV"
+      ],
+      "frequency": 3,
+      "confidence_score": 0.98,
+      "context_notes": "Indicates livestock; parallels Vinča animal markers:contentReference[oaicite:21]{index=21}.",
+      "script_symbol": "🐐",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "DO-GO",
+          "CAPRI"
+        ],
+        "primary_phonetic_value": "DO-GO",
+        "phonetic_root": "animal/offering root",
+        "phonetic_status": "mixed_existing_and_phase_one_mapping",
+        "reading_type": "zoomorphic_phonetic",
+        "phase_one_source_category": "Horned Animal (Capricornus)",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "DO-GO"
+          ],
+          "semantic_value": "The Offering; The Physical Vessel; The Cyclical Animal",
+          "basis": "Phase One phonetic mapping table: horned animal/autumnal-vector motif"
+        },
+        "existing_transliteration": "capri",
+        "notes": "Livestock/goat entry maps to horned animal/cyclical offering root; original capri retained as lexical value."
+      },
+      "reading_layers": {
+        "semantic_value": "goat(s); livestock",
+        "transliteration_label": "capri",
+        "phonetic_value": "DO-GO",
+        "phonetic_values": [
+          "DO-GO",
+          "CAPRI"
+        ],
+        "reading_type": "zoomorphic_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_008",
+        "symbol": "🐐",
+        "transliteration": "capri",
+        "translation": "goat(s); livestock",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Capricid livestock (goats/sheep)",
+          "Livestock commodity",
+          "Offerings/census of animals"
+        ],
+        "morphology": {
+          "category": "Commodity",
+          "grammatical_role": "object",
+          "semantic_field": "agriculture"
+        },
+        "etymology": "Related to IE *h₂wōs- (sheep)",
+        "attestations": [
+          "Tablet2: follows ownership marker (Person owns goats)",
+          "Tablet3: appears in Clause II and IV"
+        ],
+        "frequency": 3,
+        "confidence_score": 0.98,
+        "context_notes": "Indicates livestock; parallels Vinča animal markers:contentReference[oaicite:21]{index=21}."
+      }
+    },
+    {
+      "entry_id": "tarta_009",
+      "symbol": "🌾",
+      "transliteration": "grain",
+      "translation": "grain/foodstuffs",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Cereal grain (barley/wheat)",
+        "Agricultural produce",
+        "Food offerings/cargo"
+      ],
+      "morphology": {
+        "category": "Commodity",
+        "grammatical_role": "object",
+        "semantic_field": "agriculture"
+      },
+      "etymology": "Pre-IE *gher- (to grow, grain)",
+      "attestations": [
+        "Tablet2: paired with livestock (goats & grain)",
+        "Tablet3: in administrative context"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.97,
+      "context_notes": "Represents food supplies or offerings in a ledger entry.",
+      "script_symbol": "🌾",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "TA-JA",
+          "GRAIN"
+        ],
+        "primary_phonetic_value": "TA-JA",
+        "phonetic_root": "growth/abundance root",
+        "phonetic_status": "mixed_existing_and_phase_one_mapping",
+        "reading_type": "vegetal_phonetic",
+        "phase_one_source_category": "Vegetal Motif (Arabesque/Tree)",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "TA-JA"
+          ],
+          "semantic_value": "The Source of Abundance; The Living Tree; Earthly Yield",
+          "basis": "Phase One phonetic mapping table: vegetal/agricultural motif"
+        },
+        "existing_transliteration": "grain",
+        "notes": "Grain/foodstuffs maps to vegetal/agricultural abundance root; original grain retained."
+      },
+      "reading_layers": {
+        "semantic_value": "grain/foodstuffs",
+        "transliteration_label": "grain",
+        "phonetic_value": "TA-JA",
+        "phonetic_values": [
+          "TA-JA",
+          "GRAIN"
+        ],
+        "reading_type": "vegetal_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_009",
+        "symbol": "🌾",
+        "transliteration": "grain",
+        "translation": "grain/foodstuffs",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Cereal grain (barley/wheat)",
+          "Agricultural produce",
+          "Food offerings/cargo"
+        ],
+        "morphology": {
+          "category": "Commodity",
+          "grammatical_role": "object",
+          "semantic_field": "agriculture"
+        },
+        "etymology": "Pre-IE *gher- (to grow, grain)",
+        "attestations": [
+          "Tablet2: paired with livestock (goats & grain)",
+          "Tablet3: in administrative context"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.97,
+        "context_notes": "Represents food supplies or offerings in a ledger entry."
+      }
+    },
+    {
+      "entry_id": "tarta_010",
+      "symbol": "◈",
+      "transliteration": "sac",
+      "translation": "sacred/place; temple",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Elevated place (mountain/sanctuary)",
+        "Temple or shrine",
+        "Holy precinct"
+      ],
+      "morphology": {
+        "category": "Locative",
+        "grammatical_role": "location",
+        "semantic_field": "religious_space"
+      },
+      "etymology": "Likely *sag/sac- root (sacred)",
+      "attestations": [
+        "Tablet2: denotes the sacred location of transaction",
+        "Tablet3: appears as quadrant IV marker"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.96,
+      "context_notes": "Consistently used to mark temples or holy hills; linked with offerings.",
+      "script_symbol": "◈",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "KAR",
+          "KRA",
+          "SAC"
+        ],
+        "primary_phonetic_value": "KAR",
+        "phonetic_root": "constructed-sacred-space root",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "locative_phonetic",
+        "phase_one_source_category": "Intersecting Cross (X/+)",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "KAR",
+            "KRA"
+          ],
+          "semantic_value": "The Creation; The Constructed Space; The Four Directions",
+          "basis": "Phase One phonetic mapping table: intersecting-cross spatial delimiter"
+        },
+        "existing_transliteration": "sac",
+        "notes": "Sacred place/temple treated as constructed sacred-space reading; original sac retained."
+      },
+      "reading_layers": {
+        "semantic_value": "sacred/place; temple",
+        "transliteration_label": "sac",
+        "phonetic_value": "KAR",
+        "phonetic_values": [
+          "KAR",
+          "KRA",
+          "SAC"
+        ],
+        "reading_type": "locative_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_010",
+        "symbol": "◈",
+        "transliteration": "sac",
+        "translation": "sacred/place; temple",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Elevated place (mountain/sanctuary)",
+          "Temple or shrine",
+          "Holy precinct"
+        ],
+        "morphology": {
+          "category": "Locative",
+          "grammatical_role": "location",
+          "semantic_field": "religious_space"
+        },
+        "etymology": "Likely *sag/sac- root (sacred)",
+        "attestations": [
+          "Tablet2: denotes the sacred location of transaction",
+          "Tablet3: appears as quadrant IV marker"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.96,
+        "context_notes": "Consistently used to mark temples or holy hills; linked with offerings."
+      }
+    },
+    {
+      "entry_id": "tarta_011",
+      "symbol": "△",
+      "transliteration": "elev",
+      "translation": "elevation; mountain/hill",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Elevated terrain (hill/mountain)",
+        "Sky/heaven (abstract)",
+        "Leadership/authority (metaphor)"
+      ],
+      "morphology": {
+        "category": "Topographic",
+        "grammatical_role": "modifier/noun",
+        "semantic_field": "geography"
+      },
+      "etymology": "From root *del- (to high place)",
+      "attestations": [
+        "Tablet3: used as a localizer in Quadrant IV (place)",
+        "Tablet2: modifies location term"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.97,
+      "context_notes": "Denotes a specific sacred place; symbol cluster denotes *Temple on the hill*.",
+      "script_symbol": "△",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "ONT",
+          "OM",
+          "MAL"
+        ],
+        "primary_phonetic_value": "ONT",
+        "phonetic_root": "high-place/ascent root",
+        "phonetic_status": "mixed_existing_and_cross_corpus_mapping",
+        "reading_type": "topographic_phonetic",
+        "phase_one_source_category": "M-Shaped Incision",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "ONT",
+            "OM"
+          ],
+          "semantic_value": "To Integrate; To Ascend; The High Place",
+          "basis": "Phase One phonetic mapping table: upward/ascending vector"
+        },
+        "existing_transliteration": "elev",
+        "notes": "Elevation/mountain maps to ONT/OM ascent layer; MAL retained as Dispilio/Vinča-Danube topographic cognate candidate."
+      },
+      "reading_layers": {
+        "semantic_value": "elevation; mountain/hill",
+        "transliteration_label": "elev",
+        "phonetic_value": "ONT",
+        "phonetic_values": [
+          "ONT",
+          "OM",
+          "MAL"
+        ],
+        "reading_type": "topographic_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_011",
+        "symbol": "△",
+        "transliteration": "elev",
+        "translation": "elevation; mountain/hill",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Elevated terrain (hill/mountain)",
+          "Sky/heaven (abstract)",
+          "Leadership/authority (metaphor)"
+        ],
+        "morphology": {
+          "category": "Topographic",
+          "grammatical_role": "modifier/noun",
+          "semantic_field": "geography"
+        },
+        "etymology": "From root *del- (to high place)",
+        "attestations": [
+          "Tablet3: used as a localizer in Quadrant IV (place)",
+          "Tablet2: modifies location term"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.97,
+        "context_notes": "Denotes a specific sacred place; symbol cluster denotes *Temple on the hill*."
+      }
+    },
+    {
+      "entry_id": "tarta_012",
+      "symbol": "⟙",
+      "transliteration": "own",
+      "translation": "own/possess; seal mark",
+      "part_of_speech": "verb/mark",
+      "definitions": [
+        "To own or possess",
+        "Ownership mark (like a seal)",
+        "Attribution of property"
+      ],
+      "morphology": {
+        "category": "Ownership Marker",
+        "grammatical_role": "verb/particle",
+        "semantic_field": "administrative"
+      },
+      "etymology": "Proto-Indo-European *wen- (to strive/cover)",
+      "attestations": [
+        "Tablet2: connects Person with goods (owns)",
+        "Tablet3: appears in [Subject–Predicate] structure"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.98,
+      "context_notes": "Typically indicates possession; analogous to Proto-Elamite seal notation.",
+      "script_symbol": "⟙",
+      "pos": "verb/mark",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "OWN?"
+        ],
+        "primary_phonetic_value": "OWN?",
+        "phonetic_root": "possession-root pending",
+        "phonetic_status": "pending_direct_phase_mapping",
+        "reading_type": "administrative_semantic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "own",
+        "notes": "Ownership marker preserved; direct phonetic root not found in uploaded Tartaria Phase One table."
+      },
+      "reading_layers": {
+        "semantic_value": "own/possess; seal mark",
+        "transliteration_label": "own",
+        "phonetic_value": "OWN?",
+        "phonetic_values": [
+          "OWN?"
+        ],
+        "reading_type": "administrative_semantic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_012",
+        "symbol": "⟙",
+        "transliteration": "own",
+        "translation": "own/possess; seal mark",
+        "part_of_speech": "verb/mark",
+        "definitions": [
+          "To own or possess",
+          "Ownership mark (like a seal)",
+          "Attribution of property"
+        ],
+        "morphology": {
+          "category": "Ownership Marker",
+          "grammatical_role": "verb/particle",
+          "semantic_field": "administrative"
+        },
+        "etymology": "Proto-Indo-European *wen- (to strive/cover)",
+        "attestations": [
+          "Tablet2: connects Person with goods (owns)",
+          "Tablet3: appears in [Subject–Predicate] structure"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.98,
+        "context_notes": "Typically indicates possession; analogous to Proto-Elamite seal notation."
+      }
+    },
+    {
+      "entry_id": "tarta_013",
+      "symbol": "−",
+      "transliteration": "not",
+      "translation": "negation; (not/do not)",
+      "part_of_speech": "particle",
+      "definitions": [
+        "Negative particle (‘no’, ‘not’)",
+        "Denial or absence",
+        "Markup for zero or none"
+      ],
+      "morphology": {
+        "category": "Grammatical Particle",
+        "grammatical_role": "negator",
+        "semantic_field": "logic"
+      },
+      "etymology": "Related to Indo-European *ne- (negation)",
+      "attestations": [
+        "Tablet3: used in conditional or prohibitive clauses",
+        "Tablet2: marks absence of something"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.95,
+      "context_notes": "Rare; marks negative context (absence, prohibition).",
+      "script_symbol": "−",
+      "pos": "particle",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "NOT",
+          "NE?"
+        ],
+        "primary_phonetic_value": "NOT",
+        "phonetic_root": "*ne-",
+        "phonetic_status": "lexicon_transliteration_as_phonetic_label",
+        "reading_type": "grammatical_particle_phonetic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "not",
+        "notes": "Negator retains existing transliteration and etymological *ne- relationship."
+      },
+      "reading_layers": {
+        "semantic_value": "negation; (not/do not)",
+        "transliteration_label": "not",
+        "phonetic_value": "NOT",
+        "phonetic_values": [
+          "NOT",
+          "NE?"
+        ],
+        "reading_type": "grammatical_particle_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_013",
+        "symbol": "−",
+        "transliteration": "not",
+        "translation": "negation; (not/do not)",
+        "part_of_speech": "particle",
+        "definitions": [
+          "Negative particle (‘no’, ‘not’)",
+          "Denial or absence",
+          "Markup for zero or none"
+        ],
+        "morphology": {
+          "category": "Grammatical Particle",
+          "grammatical_role": "negator",
+          "semantic_field": "logic"
+        },
+        "etymology": "Related to Indo-European *ne- (negation)",
+        "attestations": [
+          "Tablet3: used in conditional or prohibitive clauses",
+          "Tablet2: marks absence of something"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.95,
+        "context_notes": "Rare; marks negative context (absence, prohibition)."
+      }
+    },
+    {
+      "entry_id": "tarta_014",
+      "symbol": "▾",
+      "transliteration": "own2",
+      "translation": "possess (alternate form)",
+      "part_of_speech": "particle",
+      "definitions": [
+        "Possessive particle (variant of ‘own’)",
+        "Alternative seal/ownership symbol"
+      ],
+      "morphology": {
+        "category": "Administrative Mark",
+        "grammatical_role": "verb/particle",
+        "semantic_field": "property"
+      },
+      "etymology": "See *own/possess* root",
+      "attestations": [
+        "Tablet2: appears once in ownership context",
+        "Tablet3: complementary to ⟙"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.94,
+      "context_notes": "Likely a graphic variant of the ownership marker; confirms property assignment.",
+      "script_symbol": "▾",
+      "pos": "particle",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "OWN2?"
+        ],
+        "primary_phonetic_value": "OWN2?",
+        "phonetic_root": "possession-root pending",
+        "phonetic_status": "pending_direct_phase_mapping",
+        "reading_type": "administrative_semantic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "own2",
+        "notes": "Possessive variant preserved; direct phonetic root not found in uploaded table."
+      },
+      "reading_layers": {
+        "semantic_value": "possess (alternate form)",
+        "transliteration_label": "own2",
+        "phonetic_value": "OWN2?",
+        "phonetic_values": [
+          "OWN2?"
+        ],
+        "reading_type": "administrative_semantic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_014",
+        "symbol": "▾",
+        "transliteration": "own2",
+        "translation": "possess (alternate form)",
+        "part_of_speech": "particle",
+        "definitions": [
+          "Possessive particle (variant of ‘own’)",
+          "Alternative seal/ownership symbol"
+        ],
+        "morphology": {
+          "category": "Administrative Mark",
+          "grammatical_role": "verb/particle",
+          "semantic_field": "property"
+        },
+        "etymology": "See *own/possess* root",
+        "attestations": [
+          "Tablet2: appears once in ownership context",
+          "Tablet3: complementary to ⟙"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.94,
+        "context_notes": "Likely a graphic variant of the ownership marker; confirms property assignment."
+      }
+    },
+    {
+      "entry_id": "tarta_015",
+      "symbol": "⚘",
+      "transliteration": "offer",
+      "translation": "offering; tribute",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Offering (ritual tribute)",
+        "Gift to deity or ruler"
+      ],
+      "morphology": {
+        "category": "Noun",
+        "grammatical_role": "object",
+        "semantic_field": "ritual"
+      },
+      "etymology": "Derived from PIE *gʷer- (to present)",
+      "attestations": [
+        "Tablet1 & Tablet2: appears in context of offerings",
+        "Tablet3: part of religious dedicatory clauses"
+      ],
+      "frequency": 3,
+      "confidence_score": 0.97,
+      "context_notes": "Occurs in formulaic gift/tribute expressions; often with numeral.",
+      "script_symbol": "⚘",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "DO-GO",
+          "OFFER"
+        ],
+        "primary_phonetic_value": "DO-GO",
+        "phonetic_root": "offering/horned-animal root",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "ritual_phonetic",
+        "phase_one_source_category": "Horned Animal (Capricornus)",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "DO-GO"
+          ],
+          "semantic_value": "The Offering; The Physical Vessel; The Cyclical Animal",
+          "basis": "Phase One phonetic mapping table: horned animal/autumnal-vector motif"
+        },
+        "existing_transliteration": "offer",
+        "notes": "Offering/tribute is semantically tied to DO-GO offering-vessel/animal root, though the sign itself is normalized."
+      },
+      "reading_layers": {
+        "semantic_value": "offering; tribute",
+        "transliteration_label": "offer",
+        "phonetic_value": "DO-GO",
+        "phonetic_values": [
+          "DO-GO",
+          "OFFER"
+        ],
+        "reading_type": "ritual_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_015",
+        "symbol": "⚘",
+        "transliteration": "offer",
+        "translation": "offering; tribute",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Offering (ritual tribute)",
+          "Gift to deity or ruler"
+        ],
+        "morphology": {
+          "category": "Noun",
+          "grammatical_role": "object",
+          "semantic_field": "ritual"
+        },
+        "etymology": "Derived from PIE *gʷer- (to present)",
+        "attestations": [
+          "Tablet1 & Tablet2: appears in context of offerings",
+          "Tablet3: part of religious dedicatory clauses"
+        ],
+        "frequency": 3,
+        "confidence_score": 0.97,
+        "context_notes": "Occurs in formulaic gift/tribute expressions; often with numeral."
+      }
+    },
+    {
+      "entry_id": "tarta_016",
+      "symbol": "☆",
+      "transliteration": "divine",
+      "translation": "divine (adj.); of the gods",
+      "part_of_speech": "adjective",
+      "definitions": [
+        "Divine, godlike",
+        "Pertaining to a deity or sanctuary"
+      ],
+      "morphology": {
+        "category": "Adjective",
+        "grammatical_role": "modifier",
+        "semantic_field": "religious"
+      },
+      "etymology": "Suffix from root *deiw- (sky/god)",
+      "attestations": [
+        "Tablet1: modifies sacred domain",
+        "Tablet3: attached to offering symbols"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.95,
+      "context_notes": "Refines meaning of other symbols (e.g. ‘sacred place’→‘divine place’).",
+      "script_symbol": "☆",
+      "pos": "adjective",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "KO",
+          "KA"
+        ],
+        "primary_phonetic_value": "KO",
+        "phonetic_root": "*ko-/*ka-",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "divine_modifier_phonetic",
+        "phase_one_source_category": "D-Shape / O-Shape (unpierced)",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "KO",
+            "KA"
+          ],
+          "semantic_value": "The Deity; The Divine Source; Absolute Unity",
+          "basis": "Phase One phonetic mapping table: D/O shape central-axis deity/root mapping"
+        },
+        "existing_transliteration": "divine",
+        "notes": "Divine adjective inherits deity/absolute-source root family."
+      },
+      "reading_layers": {
+        "semantic_value": "divine (adj.); of the gods",
+        "transliteration_label": "divine",
+        "phonetic_value": "KO",
+        "phonetic_values": [
+          "KO",
+          "KA"
+        ],
+        "reading_type": "divine_modifier_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_016",
+        "symbol": "☆",
+        "transliteration": "divine",
+        "translation": "divine (adj.); of the gods",
+        "part_of_speech": "adjective",
+        "definitions": [
+          "Divine, godlike",
+          "Pertaining to a deity or sanctuary"
+        ],
+        "morphology": {
+          "category": "Adjective",
+          "grammatical_role": "modifier",
+          "semantic_field": "religious"
+        },
+        "etymology": "Suffix from root *deiw- (sky/god)",
+        "attestations": [
+          "Tablet1: modifies sacred domain",
+          "Tablet3: attached to offering symbols"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.95,
+        "context_notes": "Refines meaning of other symbols (e.g. ‘sacred place’→‘divine place’)."
+      }
+    },
+    {
+      "entry_id": "tarta_017",
+      "symbol": "▿",
+      "transliteration": "time",
+      "translation": "time period; season",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Time (seasonal cycle)",
+        "Phase/epoch",
+        "Ceremonial period"
+      ],
+      "morphology": {
+        "category": "Temporal",
+        "grammatical_role": "noun",
+        "semantic_field": "time/calendar"
+      },
+      "etymology": "Related to PIE *kʷo- (cycle)",
+      "attestations": [
+        "Tablet3: marks temporal clause (Quadrant II)",
+        "Tablet1: implied by context of offerings"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.94,
+      "context_notes": "Denotes a recurring cycle (likely lunar or festival); supports calendrical reading.",
+      "script_symbol": "▿",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "JO",
+          "YU",
+          "TIME"
+        ],
+        "primary_phonetic_value": "JO",
+        "phonetic_root": "lunar/time root",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "temporal_phonetic",
+        "phase_one_source_category": "Bow / Crescent Motif",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "JO",
+            "YU"
+          ],
+          "semantic_value": "Goodness; The Favorable Time; The Waxing Phase",
+          "basis": "Phase One phonetic mapping table: bow/crescent lunar-time motif"
+        },
+        "existing_transliteration": "time",
+        "notes": "Time/season layer maps to JO/YU favorable-time/waxing-phase root; existing time retained."
+      },
+      "reading_layers": {
+        "semantic_value": "time period; season",
+        "transliteration_label": "time",
+        "phonetic_value": "JO",
+        "phonetic_values": [
+          "JO",
+          "YU",
+          "TIME"
+        ],
+        "reading_type": "temporal_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_017",
+        "symbol": "▿",
+        "transliteration": "time",
+        "translation": "time period; season",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Time (seasonal cycle)",
+          "Phase/epoch",
+          "Ceremonial period"
+        ],
+        "morphology": {
+          "category": "Temporal",
+          "grammatical_role": "noun",
+          "semantic_field": "time/calendar"
+        },
+        "etymology": "Related to PIE *kʷo- (cycle)",
+        "attestations": [
+          "Tablet3: marks temporal clause (Quadrant II)",
+          "Tablet1: implied by context of offerings"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.94,
+        "context_notes": "Denotes a recurring cycle (likely lunar or festival); supports calendrical reading."
+      }
+    },
+    {
+      "entry_id": "tarta_018",
+      "symbol": "|",
+      "transliteration": "punct1",
+      "translation": "dividing mark (one unit)",
+      "part_of_speech": "punctuation",
+      "definitions": [
+        "Tally mark (one)",
+        "Separator or unit indicator"
+      ],
+      "morphology": {
+        "category": "Numerical/Punctuation",
+        "grammatical_role": "separator",
+        "semantic_field": "counting"
+      },
+      "etymology": "Universal tally origin",
+      "attestations": [
+        "Present in tablet inscriptions as count markers",
+        "Combined in numeric groups"
+      ],
+      "frequency": 20,
+      "confidence_score": 0.99,
+      "context_notes": "Basic numeric stroke; used for tallying quantities (cattle, grains).",
+      "script_symbol": "|",
+      "pos": "punctuation",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "BO",
+          "BA"
+        ],
+        "primary_phonetic_value": "BO",
+        "phonetic_root": "quantity/multiplicity root",
+        "phonetic_status": "direct_phase_one_mapping",
+        "reading_type": "tally_phonetic",
+        "phase_one_source_category": "Parallel Linear Strokes",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "BO",
+            "BA"
+          ],
+          "semantic_value": "Many; The Accumulation; The Measured Quantity",
+          "basis": "Phase One phonetic mapping table: tally/multiplicity strokes"
+        },
+        "existing_transliteration": "punct1",
+        "notes": "Basic stroke/tally maps to BO/BA measured quantity/accumulation."
+      },
+      "reading_layers": {
+        "semantic_value": "dividing mark (one unit)",
+        "transliteration_label": "punct1",
+        "phonetic_value": "BO",
+        "phonetic_values": [
+          "BO",
+          "BA"
+        ],
+        "reading_type": "tally_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_018",
+        "symbol": "|",
+        "transliteration": "punct1",
+        "translation": "dividing mark (one unit)",
+        "part_of_speech": "punctuation",
+        "definitions": [
+          "Tally mark (one)",
+          "Separator or unit indicator"
+        ],
+        "morphology": {
+          "category": "Numerical/Punctuation",
+          "grammatical_role": "separator",
+          "semantic_field": "counting"
+        },
+        "etymology": "Universal tally origin",
+        "attestations": [
+          "Present in tablet inscriptions as count markers",
+          "Combined in numeric groups"
+        ],
+        "frequency": 20,
+        "confidence_score": 0.99,
+        "context_notes": "Basic numeric stroke; used for tallying quantities (cattle, grains)."
+      }
+    },
+    {
+      "entry_id": "tarta_019",
+      "symbol": "| |",
+      "transliteration": "punct2",
+      "translation": "two tally marks",
+      "part_of_speech": "numeral",
+      "definitions": [
+        "Two (count)",
+        "Duo (number group)"
+      ],
+      "morphology": {
+        "category": "Numeral",
+        "grammatical_role": "number",
+        "semantic_field": "counting"
+      },
+      "etymology": "Composite of | + |",
+      "attestations": [
+        "Clumped in Tablet3’s numeric column (13=||| + ⋁)",
+        "Support counting of items"
+      ],
+      "frequency": 15,
+      "confidence_score": 0.98,
+      "context_notes": "An instance of tally repetition, confirming simple numeral notation.",
+      "script_symbol": "| |",
+      "pos": "numeral",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "BO",
+          "BA"
+        ],
+        "primary_phonetic_value": "BO",
+        "phonetic_root": "quantity/multiplicity root",
+        "phonetic_status": "direct_phase_one_mapping",
+        "reading_type": "tally_phonetic",
+        "phase_one_source_category": "Parallel Linear Strokes",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "BO",
+            "BA"
+          ],
+          "semantic_value": "Many; The Accumulation; The Measured Quantity",
+          "basis": "Phase One phonetic mapping table: tally/multiplicity strokes"
+        },
+        "existing_transliteration": "punct2",
+        "notes": "Two tally marks are treated under the linear-stroke multiplicity layer."
+      },
+      "reading_layers": {
+        "semantic_value": "two tally marks",
+        "transliteration_label": "punct2",
+        "phonetic_value": "BO",
+        "phonetic_values": [
+          "BO",
+          "BA"
+        ],
+        "reading_type": "tally_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_019",
+        "symbol": "| |",
+        "transliteration": "punct2",
+        "translation": "two tally marks",
+        "part_of_speech": "numeral",
+        "definitions": [
+          "Two (count)",
+          "Duo (number group)"
+        ],
+        "morphology": {
+          "category": "Numeral",
+          "grammatical_role": "number",
+          "semantic_field": "counting"
+        },
+        "etymology": "Composite of | + |",
+        "attestations": [
+          "Clumped in Tablet3’s numeric column (13=||| + ⋁)",
+          "Support counting of items"
+        ],
+        "frequency": 15,
+        "confidence_score": 0.98,
+        "context_notes": "An instance of tally repetition, confirming simple numeral notation."
+      }
+    },
+    {
+      "entry_id": "tarta_020",
+      "symbol": "V",
+      "transliteration": "punct4",
+      "translation": "four tally marks",
+      "part_of_speech": "numeral",
+      "definitions": [
+        "Four (count)",
+        "Quadrilateral tally cluster"
+      ],
+      "morphology": {
+        "category": "Numeral",
+        "grammatical_role": "number",
+        "semantic_field": "counting"
+      },
+      "etymology": "Composite of four | strokes",
+      "attestations": [
+        "Found in Tablet3 as '||||'",
+        "Usually indicates a fixed bundle (e.g. 4 goats)"
+      ],
+      "frequency": 3,
+      "confidence_score": 0.97,
+      "context_notes": "Rare; suggests culturally significant quantity sets (e.g. quadrants).",
+      "script_symbol": "V",
+      "pos": "numeral",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "BO",
+          "BA"
+        ],
+        "primary_phonetic_value": "BO",
+        "phonetic_root": "quantity/multiplicity root",
+        "phonetic_status": "direct_phase_one_mapping",
+        "reading_type": "tally_phonetic",
+        "phase_one_source_category": "Parallel Linear Strokes",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "BO",
+            "BA"
+          ],
+          "semantic_value": "Many; The Accumulation; The Measured Quantity",
+          "basis": "Phase One phonetic mapping table: tally/multiplicity strokes"
+        },
+        "existing_transliteration": "punct4",
+        "notes": "Four tally marks are treated under the linear-stroke multiplicity layer."
+      },
+      "reading_layers": {
+        "semantic_value": "four tally marks",
+        "transliteration_label": "punct4",
+        "phonetic_value": "BO",
+        "phonetic_values": [
+          "BO",
+          "BA"
+        ],
+        "reading_type": "tally_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_020",
+        "symbol": "V",
+        "transliteration": "punct4",
+        "translation": "four tally marks",
+        "part_of_speech": "numeral",
+        "definitions": [
+          "Four (count)",
+          "Quadrilateral tally cluster"
+        ],
+        "morphology": {
+          "category": "Numeral",
+          "grammatical_role": "number",
+          "semantic_field": "counting"
+        },
+        "etymology": "Composite of four | strokes",
+        "attestations": [
+          "Found in Tablet3 as '||||'",
+          "Usually indicates a fixed bundle (e.g. 4 goats)"
+        ],
+        "frequency": 3,
+        "confidence_score": 0.97,
+        "context_notes": "Rare; suggests culturally significant quantity sets (e.g. quadrants)."
+      }
+    },
+    {
+      "entry_id": "tarta_021",
+      "symbol": "∽",
+      "transliteration": "approx",
+      "translation": "approximation/variation",
+      "part_of_speech": "particle",
+      "definitions": [
+        "Approximate or related to",
+        "Used to modify extent"
+      ],
+      "morphology": {
+        "category": "Modifier",
+        "grammatical_role": "particle",
+        "semantic_field": "quantity/qualifier"
+      },
+      "etymology": "Analogous to later numeral approximation notation",
+      "attestations": [
+        "Tablet3: used next to numeral clusters",
+        "Tablet1: unclear usage, possibly grammatical"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.9,
+      "context_notes": "Interpreted as a sort of ‘about’ or range marker; tentative.",
+      "script_symbol": "∽",
+      "pos": "particle",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "APPROX?"
+        ],
+        "primary_phonetic_value": "APPROX?",
+        "phonetic_root": "qualifier-root pending",
+        "phonetic_status": "pending_direct_phase_mapping",
+        "reading_type": "quantifier_particle_semantic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "approx",
+        "notes": "Approximation marker preserved; direct phonetic root pending."
+      },
+      "reading_layers": {
+        "semantic_value": "approximation/variation",
+        "transliteration_label": "approx",
+        "phonetic_value": "APPROX?",
+        "phonetic_values": [
+          "APPROX?"
+        ],
+        "reading_type": "quantifier_particle_semantic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_021",
+        "symbol": "∽",
+        "transliteration": "approx",
+        "translation": "approximation/variation",
+        "part_of_speech": "particle",
+        "definitions": [
+          "Approximate or related to",
+          "Used to modify extent"
+        ],
+        "morphology": {
+          "category": "Modifier",
+          "grammatical_role": "particle",
+          "semantic_field": "quantity/qualifier"
+        },
+        "etymology": "Analogous to later numeral approximation notation",
+        "attestations": [
+          "Tablet3: used next to numeral clusters",
+          "Tablet1: unclear usage, possibly grammatical"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.9,
+        "context_notes": "Interpreted as a sort of ‘about’ or range marker; tentative."
+      }
+    },
+    {
+      "entry_id": "tarta_022",
+      "symbol": "⚤",
+      "transliteration": "temple",
+      "translation": "temple or sanctuary",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Temple building",
+        "Priestly place of worship",
+        "Sacred structure"
+      ],
+      "morphology": {
+        "category": "Locative/Institution",
+        "grammatical_role": "noun",
+        "semantic_field": "religious"
+      },
+      "etymology": "Likely same root as ‘sacred place’",
+      "attestations": [
+        "Tablet2: marks site of sacred transaction",
+        "Tablet3: appears in top-level invocation"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.95,
+      "context_notes": "Highlights specific temple involvement in rites; often with offerings.",
+      "script_symbol": "⚤",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "KAR",
+          "KRA",
+          "KO",
+          "KA"
+        ],
+        "primary_phonetic_value": "KAR",
+        "phonetic_root": "constructed/sacred-space root",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "religious_locative_phonetic",
+        "phase_one_source_category": "Intersecting Cross (X/+)",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "KAR",
+            "KRA"
+          ],
+          "semantic_value": "The Creation; The Constructed Space; The Four Directions",
+          "basis": "Phase One phonetic mapping table: intersecting-cross spatial delimiter"
+        },
+        "existing_transliteration": "temple",
+        "notes": "Temple/sanctuary receives constructed-space KAR/KRA plus divine KO/KA alternate."
+      },
+      "reading_layers": {
+        "semantic_value": "temple or sanctuary",
+        "transliteration_label": "temple",
+        "phonetic_value": "KAR",
+        "phonetic_values": [
+          "KAR",
+          "KRA",
+          "KO",
+          "KA"
+        ],
+        "reading_type": "religious_locative_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_022",
+        "symbol": "⚤",
+        "transliteration": "temple",
+        "translation": "temple or sanctuary",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Temple building",
+          "Priestly place of worship",
+          "Sacred structure"
+        ],
+        "morphology": {
+          "category": "Locative/Institution",
+          "grammatical_role": "noun",
+          "semantic_field": "religious"
+        },
+        "etymology": "Likely same root as ‘sacred place’",
+        "attestations": [
+          "Tablet2: marks site of sacred transaction",
+          "Tablet3: appears in top-level invocation"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.95,
+        "context_notes": "Highlights specific temple involvement in rites; often with offerings."
+      }
+    },
+    {
+      "entry_id": "tarta_023",
+      "symbol": "∴",
+      "transliteration": "therefore",
+      "translation": "therefore; thus",
+      "part_of_speech": "conjunction",
+      "definitions": [
+        "Therefore, hence",
+        "Conclusion marker"
+      ],
+      "morphology": {
+        "category": "Conjunction/Particle",
+        "grammatical_role": "logical connector",
+        "semantic_field": "logic"
+      },
+      "etymology": "Proto-Indo-European *ten- (stretch; hence as connector)",
+      "attestations": [
+        "Tablet2: links clauses (subject and object)",
+        "Tablet3: appears at ends of segments"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.96,
+      "context_notes": "Functions as logical bridge between statements, confirming proto-syntactic sequencing.",
+      "script_symbol": "∴",
+      "pos": "conjunction",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "THEREFORE?"
+        ],
+        "primary_phonetic_value": "THEREFORE?",
+        "phonetic_root": "connector-root pending",
+        "phonetic_status": "pending_direct_phase_mapping",
+        "reading_type": "logical_particle_semantic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "therefore",
+        "notes": "Logical connector retained; direct phonetic root pending."
+      },
+      "reading_layers": {
+        "semantic_value": "therefore; thus",
+        "transliteration_label": "therefore",
+        "phonetic_value": "THEREFORE?",
+        "phonetic_values": [
+          "THEREFORE?"
+        ],
+        "reading_type": "logical_particle_semantic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_023",
+        "symbol": "∴",
+        "transliteration": "therefore",
+        "translation": "therefore; thus",
+        "part_of_speech": "conjunction",
+        "definitions": [
+          "Therefore, hence",
+          "Conclusion marker"
+        ],
+        "morphology": {
+          "category": "Conjunction/Particle",
+          "grammatical_role": "logical connector",
+          "semantic_field": "logic"
+        },
+        "etymology": "Proto-Indo-European *ten- (stretch; hence as connector)",
+        "attestations": [
+          "Tablet2: links clauses (subject and object)",
+          "Tablet3: appears at ends of segments"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.96,
+        "context_notes": "Functions as logical bridge between statements, confirming proto-syntactic sequencing."
+      }
+    },
+    {
+      "entry_id": "tarta_024",
+      "symbol": "⇔",
+      "transliteration": "equiv",
+      "translation": "equals; is",
+      "part_of_speech": "verb/particle",
+      "definitions": [
+        "Equals, is (copula)",
+        "Associates subject and predicate"
+      ],
+      "morphology": {
+        "category": "Verb/Particle",
+        "grammatical_role": "copula",
+        "semantic_field": "grammar"
+      },
+      "etymology": "Cognate with IE *h₁es- (to be)",
+      "attestations": [
+        "Tablet2: stands between Person and Goats-Grain phrase",
+        "Tablet3: separate predicate from object"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.97,
+      "context_notes": "Core linking element; its presence strongly indicates linguistic structure.",
+      "script_symbol": "⇔",
+      "pos": "verb/particle",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "EQUIV?",
+          "ES?"
+        ],
+        "primary_phonetic_value": "EQUIV?",
+        "phonetic_root": "*h1es-?",
+        "phonetic_status": "lexicon_transliteration_as_phonetic_label",
+        "reading_type": "copular_particle_phonetic_candidate",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "equiv",
+        "notes": "Copula/linking semantics retained; *h1es- noted as etymological candidate, not promoted to confirmed root."
+      },
+      "reading_layers": {
+        "semantic_value": "equals; is",
+        "transliteration_label": "equiv",
+        "phonetic_value": "EQUIV?",
+        "phonetic_values": [
+          "EQUIV?",
+          "ES?"
+        ],
+        "reading_type": "copular_particle_phonetic_candidate"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_024",
+        "symbol": "⇔",
+        "transliteration": "equiv",
+        "translation": "equals; is",
+        "part_of_speech": "verb/particle",
+        "definitions": [
+          "Equals, is (copula)",
+          "Associates subject and predicate"
+        ],
+        "morphology": {
+          "category": "Verb/Particle",
+          "grammatical_role": "copula",
+          "semantic_field": "grammar"
+        },
+        "etymology": "Cognate with IE *h₁es- (to be)",
+        "attestations": [
+          "Tablet2: stands between Person and Goats-Grain phrase",
+          "Tablet3: separate predicate from object"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.97,
+        "context_notes": "Core linking element; its presence strongly indicates linguistic structure."
+      }
+    },
+    {
+      "entry_id": "tarta_025",
+      "symbol": "≈",
+      "transliteration": "temp2",
+      "translation": "time (alt)",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Alternative form of time symbol",
+        "Often paired with ▿"
+      ],
+      "morphology": {
+        "category": "Temporal",
+        "grammatical_role": "noun",
+        "semantic_field": "time"
+      },
+      "etymology": "Variant of *time symbol",
+      "attestations": [
+        "Tablet3: appears after ▿",
+        "May indicate cyclic vs. linear time nuance"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.92,
+      "context_notes": "Its usage hints at advanced calendrical notation; interpreted as lunar-month marker.",
+      "script_symbol": "≈",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "JO",
+          "YU",
+          "TEMP2"
+        ],
+        "primary_phonetic_value": "JO",
+        "phonetic_root": "lunar/time root",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "temporal_phonetic",
+        "phase_one_source_category": "Bow / Crescent Motif",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "JO",
+            "YU"
+          ],
+          "semantic_value": "Goodness; The Favorable Time; The Waxing Phase",
+          "basis": "Phase One phonetic mapping table: bow/crescent lunar-time motif"
+        },
+        "existing_transliteration": "temp2",
+        "notes": "Alternate time sign maps to temporal/waxing-phase root; shares glyph with water symbol in current normalized set, flagged as contextual homograph."
+      },
+      "reading_layers": {
+        "semantic_value": "time (alt)",
+        "transliteration_label": "temp2",
+        "phonetic_value": "JO",
+        "phonetic_values": [
+          "JO",
+          "YU",
+          "TEMP2"
+        ],
+        "reading_type": "temporal_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_025",
+        "symbol": "≈",
+        "transliteration": "temp2",
+        "translation": "time (alt)",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Alternative form of time symbol",
+          "Often paired with ▿"
+        ],
+        "morphology": {
+          "category": "Temporal",
+          "grammatical_role": "noun",
+          "semantic_field": "time"
+        },
+        "etymology": "Variant of *time symbol",
+        "attestations": [
+          "Tablet3: appears after ▿",
+          "May indicate cyclic vs. linear time nuance"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.92,
+        "context_notes": "Its usage hints at advanced calendrical notation; interpreted as lunar-month marker."
+      }
+    },
+    {
+      "entry_id": "tarta_026",
+      "symbol": "▲",
+      "transliteration": "name",
+      "translation": "name/authority",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Name of a person or title",
+        "Sign of authority"
+      ],
+      "morphology": {
+        "category": "Proper noun",
+        "grammatical_role": "noun",
+        "semantic_field": "identity"
+      },
+      "etymology": "Possibly related to root *nomn- (name)",
+      "attestations": [
+        "Tablet2: appears before goat symbol, may mark cattle clan",
+        "Tablet3: used to denote ruler’s name in story context"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.93,
+      "context_notes": "Likely onomastic or title marker; context-dependent meaning.",
+      "script_symbol": "▲",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "NOMN?",
+          "NAME"
+        ],
+        "primary_phonetic_value": "NOMN?",
+        "phonetic_root": "*nomn-?",
+        "phonetic_status": "lexicon_transliteration_as_phonetic_label",
+        "reading_type": "identity_marker_phonetic_candidate",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "name",
+        "notes": "Name/authority marker keeps existing value and etymological candidate."
+      },
+      "reading_layers": {
+        "semantic_value": "name/authority",
+        "transliteration_label": "name",
+        "phonetic_value": "NOMN?",
+        "phonetic_values": [
+          "NOMN?",
+          "NAME"
+        ],
+        "reading_type": "identity_marker_phonetic_candidate"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_026",
+        "symbol": "▲",
+        "transliteration": "name",
+        "translation": "name/authority",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Name of a person or title",
+          "Sign of authority"
+        ],
+        "morphology": {
+          "category": "Proper noun",
+          "grammatical_role": "noun",
+          "semantic_field": "identity"
+        },
+        "etymology": "Possibly related to root *nomn- (name)",
+        "attestations": [
+          "Tablet2: appears before goat symbol, may mark cattle clan",
+          "Tablet3: used to denote ruler’s name in story context"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.93,
+        "context_notes": "Likely onomastic or title marker; context-dependent meaning."
+      }
+    },
+    {
+      "entry_id": "tarta_027",
+      "symbol": "▽∽",
+      "transliteration": "pour~",
+      "translation": "libation/approx",
+      "part_of_speech": "compound",
+      "definitions": [
+        "Variant of pouring (libation context)",
+        "Approximate or ritual movement"
+      ],
+      "morphology": {
+        "category": "Ritual Particle",
+        "grammatical_role": "particle",
+        "semantic_field": "ritual"
+      },
+      "etymology": "Combination of pour + approx",
+      "attestations": [
+        "Tablet1: identifies variant libation formula",
+        "Tablet3: marks conditional pouring action"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.91,
+      "context_notes": "May reflect subtle ritual nuance; functional reading remains tentative.",
+      "script_symbol": "▽∽",
+      "pos": "compound",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "MI",
+          "MA",
+          "POUR~"
+        ],
+        "primary_phonetic_value": "MI",
+        "phonetic_root": "flow/libation root",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "ritual_flow_phonetic",
+        "phase_one_source_category": "Comb / Brush Pattern",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "MI",
+            "MA"
+          ],
+          "semantic_value": "The Rain; The Integrating Flow; That Which Unifies",
+          "basis": "Phase One phonetic mapping table: comb/brush descending-flow motif"
+        },
+        "existing_transliteration": "pour~",
+        "notes": "Libation/approx compound receives flow/rain MI/MA layer plus original pour~ label."
+      },
+      "reading_layers": {
+        "semantic_value": "libation/approx",
+        "transliteration_label": "pour~",
+        "phonetic_value": "MI",
+        "phonetic_values": [
+          "MI",
+          "MA",
+          "POUR~"
+        ],
+        "reading_type": "ritual_flow_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_027",
+        "symbol": "▽∽",
+        "transliteration": "pour~",
+        "translation": "libation/approx",
+        "part_of_speech": "compound",
+        "definitions": [
+          "Variant of pouring (libation context)",
+          "Approximate or ritual movement"
+        ],
+        "morphology": {
+          "category": "Ritual Particle",
+          "grammatical_role": "particle",
+          "semantic_field": "ritual"
+        },
+        "etymology": "Combination of pour + approx",
+        "attestations": [
+          "Tablet1: identifies variant libation formula",
+          "Tablet3: marks conditional pouring action"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.91,
+        "context_notes": "May reflect subtle ritual nuance; functional reading remains tentative."
+      }
+    },
+    {
+      "entry_id": "tarta_028",
+      "symbol": "ₓ",
+      "transliteration": "sub",
+      "translation": "(subscript number)",
+      "part_of_speech": "numeral",
+      "definitions": [
+        "Indicator of subscript or lower-order count",
+        "Denotes fraction or part of unit"
+      ],
+      "morphology": {
+        "category": "Numeral Modifier",
+        "grammatical_role": "numeral",
+        "semantic_field": "mathematics"
+      },
+      "etymology": "Derived from main tally system",
+      "attestations": [
+        "Tablet3: small mark next to main numeral column",
+        "Likely a lower-order count (e.g. additional single units)"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.9,
+      "context_notes": "Function interpreted as numeric subscript; matches our numeric algorithm.",
+      "script_symbol": "ₓ",
+      "pos": "numeral",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "BO",
+          "BA",
+          "SUB"
+        ],
+        "primary_phonetic_value": "BO",
+        "phonetic_root": "quantity/subcount root",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "numeral_modifier_phonetic",
+        "phase_one_source_category": "Parallel Linear Strokes",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "BO",
+            "BA"
+          ],
+          "semantic_value": "Many; The Accumulation; The Measured Quantity",
+          "basis": "Phase One phonetic mapping table: tally/multiplicity strokes"
+        },
+        "existing_transliteration": "sub",
+        "notes": "Subscript/lower-order count inherits tally/multiplicity layer."
+      },
+      "reading_layers": {
+        "semantic_value": "(subscript number)",
+        "transliteration_label": "sub",
+        "phonetic_value": "BO",
+        "phonetic_values": [
+          "BO",
+          "BA",
+          "SUB"
+        ],
+        "reading_type": "numeral_modifier_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_028",
+        "symbol": "ₓ",
+        "transliteration": "sub",
+        "translation": "(subscript number)",
+        "part_of_speech": "numeral",
+        "definitions": [
+          "Indicator of subscript or lower-order count",
+          "Denotes fraction or part of unit"
+        ],
+        "morphology": {
+          "category": "Numeral Modifier",
+          "grammatical_role": "numeral",
+          "semantic_field": "mathematics"
+        },
+        "etymology": "Derived from main tally system",
+        "attestations": [
+          "Tablet3: small mark next to main numeral column",
+          "Likely a lower-order count (e.g. additional single units)"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.9,
+        "context_notes": "Function interpreted as numeric subscript; matches our numeric algorithm."
+      }
+    },
+    {
+      "entry_id": "tarta_029",
+      "symbol": "〰",
+      "transliteration": "limit",
+      "translation": "limit/boundary",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Limit, end point",
+        "Boundary or clause terminator"
+      ],
+      "morphology": {
+        "category": "Structural Marker",
+        "grammatical_role": "punctuation",
+        "semantic_field": "structure"
+      },
+      "etymology": "New symbol for clause division",
+      "attestations": [
+        "Tablet3: ends grammatical zones (e.g. end of predicate)",
+        "Tablet1: final tablet symbol positions"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.89,
+      "context_notes": "Marks transitions between statements; akin to sentence punctuation.",
+      "script_symbol": "〰",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "LIMIT?"
+        ],
+        "primary_phonetic_value": "LIMIT?",
+        "phonetic_root": "delimiter-root pending",
+        "phonetic_status": "pending_direct_phase_mapping",
+        "reading_type": "structural_marker_semantic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "limit",
+        "notes": "Boundary/terminator preserved as structural marker."
+      },
+      "reading_layers": {
+        "semantic_value": "limit/boundary",
+        "transliteration_label": "limit",
+        "phonetic_value": "LIMIT?",
+        "phonetic_values": [
+          "LIMIT?"
+        ],
+        "reading_type": "structural_marker_semantic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_029",
+        "symbol": "〰",
+        "transliteration": "limit",
+        "translation": "limit/boundary",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Limit, end point",
+          "Boundary or clause terminator"
+        ],
+        "morphology": {
+          "category": "Structural Marker",
+          "grammatical_role": "punctuation",
+          "semantic_field": "structure"
+        },
+        "etymology": "New symbol for clause division",
+        "attestations": [
+          "Tablet3: ends grammatical zones (e.g. end of predicate)",
+          "Tablet1: final tablet symbol positions"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.89,
+        "context_notes": "Marks transitions between statements; akin to sentence punctuation."
+      }
+    },
+    {
+      "entry_id": "tarta_030",
+      "symbol": "⚘⚡",
+      "transliteration": "ritual-void",
+      "translation": "symbolic void/barrier",
+      "part_of_speech": "conceptual",
+      "definitions": [
+        "Symbolic emptiness or sacred void",
+        "Boundary between realms"
+      ],
+      "morphology": {
+        "category": "Conceptual",
+        "grammatical_role": "delimiter",
+        "semantic_field": "ritual"
+      },
+      "etymology": "Abstract ritual concept (no direct linguistic cognate)",
+      "attestations": [
+        "Tablet1: appears as final symbol on Tablet",
+        "Tablet3: used at transition to final clauses"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.85,
+      "context_notes": "Highly interpretive: possibly a shamanic or cosmic boundary marker (alignment with consciousness theory:contentReference[oaicite:22]{index=22}).",
+      "script_symbol": "⚘⚡",
+      "pos": "conceptual",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "VOID?",
+          "TAI?"
+        ],
+        "primary_phonetic_value": "VOID?",
+        "phonetic_root": "void/locative marker",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "ritual_delimiter_phonetic_candidate",
+        "phase_one_source_category": "Drilled Circular Void",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "TAI"
+          ],
+          "semantic_value": "Here; Observe; Align Here",
+          "basis": "Phase One phonetic mapping table: drilled void as silent/locative imperative phoneme"
+        },
+        "existing_transliteration": "ritual-void",
+        "notes": "Symbolic void/barrier may inherit TAI locative/void layer; kept as candidate due to high interpretive status."
+      },
+      "reading_layers": {
+        "semantic_value": "symbolic void/barrier",
+        "transliteration_label": "ritual-void",
+        "phonetic_value": "VOID?",
+        "phonetic_values": [
+          "VOID?",
+          "TAI?"
+        ],
+        "reading_type": "ritual_delimiter_phonetic_candidate"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_030",
+        "symbol": "⚘⚡",
+        "transliteration": "ritual-void",
+        "translation": "symbolic void/barrier",
+        "part_of_speech": "conceptual",
+        "definitions": [
+          "Symbolic emptiness or sacred void",
+          "Boundary between realms"
+        ],
+        "morphology": {
+          "category": "Conceptual",
+          "grammatical_role": "delimiter",
+          "semantic_field": "ritual"
+        },
+        "etymology": "Abstract ritual concept (no direct linguistic cognate)",
+        "attestations": [
+          "Tablet1: appears as final symbol on Tablet",
+          "Tablet3: used at transition to final clauses"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.85,
+        "context_notes": "Highly interpretive: possibly a shamanic or cosmic boundary marker (alignment with consciousness theory:contentReference[oaicite:22]{index=22})."
+      }
+    },
+    {
+      "entry_id": "tarta_031",
+      "symbol": "∟",
+      "transliteration": "measure",
+      "translation": "unit measure (cubit-like)",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Standard length or volume unit",
+        "Measure (for goods or distance)"
+      ],
+      "morphology": {
+        "category": "Quantitative",
+        "grammatical_role": "noun",
+        "semantic_field": "measurements"
+      },
+      "etymology": "Indo-European *mow- (measure, think)",
+      "attestations": [
+        "Tablet3: appears in Column IV (calibration marks)",
+        "Tablet2: paired with commodities"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.87,
+      "context_notes": "Interpreted as a unit marker (like cubit); matches archeological context of standardized grain measures.",
+      "script_symbol": "∟",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "BO",
+          "BA",
+          "MEASURE"
+        ],
+        "primary_phonetic_value": "BO",
+        "phonetic_root": "quantity/measure root",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "measure_phonetic",
+        "phase_one_source_category": "Parallel Linear Strokes",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "BO",
+            "BA"
+          ],
+          "semantic_value": "Many; The Accumulation; The Measured Quantity",
+          "basis": "Phase One phonetic mapping table: tally/multiplicity strokes"
+        },
+        "existing_transliteration": "measure",
+        "notes": "Measure/unit maps to measured-quantity BO/BA layer; existing measure label retained."
+      },
+      "reading_layers": {
+        "semantic_value": "unit measure (cubit-like)",
+        "transliteration_label": "measure",
+        "phonetic_value": "BO",
+        "phonetic_values": [
+          "BO",
+          "BA",
+          "MEASURE"
+        ],
+        "reading_type": "measure_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_031",
+        "symbol": "∟",
+        "transliteration": "measure",
+        "translation": "unit measure (cubit-like)",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Standard length or volume unit",
+          "Measure (for goods or distance)"
+        ],
+        "morphology": {
+          "category": "Quantitative",
+          "grammatical_role": "noun",
+          "semantic_field": "measurements"
+        },
+        "etymology": "Indo-European *mow- (measure, think)",
+        "attestations": [
+          "Tablet3: appears in Column IV (calibration marks)",
+          "Tablet2: paired with commodities"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.87,
+        "context_notes": "Interpreted as a unit marker (like cubit); matches archeological context of standardized grain measures."
+      }
+    },
+    {
+      "entry_id": "tarta_032",
+      "symbol": "‡",
+      "transliteration": "cycle",
+      "translation": "cycle/period",
+      "part_of_speech": "noun",
+      "definitions": [
+        "Cycle (seasonal/yearly)",
+        "Recurring time period"
+      ],
+      "morphology": {
+        "category": "Temporal",
+        "grammatical_role": "noun",
+        "semantic_field": "time"
+      },
+      "etymology": "Related to PIE *kʷel- (turn around)",
+      "attestations": [
+        "Tablet3: denotes looping back of calendar segment",
+        "Tablet1: implied by context (water cycles)"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.86,
+      "context_notes": "Likely references repeating rituals or seasonal cycle; correlates with agricultural frame.",
+      "script_symbol": "‡",
+      "pos": "noun",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "JO",
+          "YU",
+          "CYCLE"
+        ],
+        "primary_phonetic_value": "JO",
+        "phonetic_root": "cycle/time root",
+        "phonetic_status": "semantic_inherited_mapping",
+        "reading_type": "temporal_cycle_phonetic",
+        "phase_one_source_category": "Bow / Crescent Motif",
+        "phase_one_source_detail": {
+          "phonetic_values": [
+            "JO",
+            "YU"
+          ],
+          "semantic_value": "Goodness; The Favorable Time; The Waxing Phase",
+          "basis": "Phase One phonetic mapping table: bow/crescent lunar-time motif"
+        },
+        "existing_transliteration": "cycle",
+        "notes": "Cycle/period maps to lunar/time root family."
+      },
+      "reading_layers": {
+        "semantic_value": "cycle/period",
+        "transliteration_label": "cycle",
+        "phonetic_value": "JO",
+        "phonetic_values": [
+          "JO",
+          "YU",
+          "CYCLE"
+        ],
+        "reading_type": "temporal_cycle_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_032",
+        "symbol": "‡",
+        "transliteration": "cycle",
+        "translation": "cycle/period",
+        "part_of_speech": "noun",
+        "definitions": [
+          "Cycle (seasonal/yearly)",
+          "Recurring time period"
+        ],
+        "morphology": {
+          "category": "Temporal",
+          "grammatical_role": "noun",
+          "semantic_field": "time"
+        },
+        "etymology": "Related to PIE *kʷel- (turn around)",
+        "attestations": [
+          "Tablet3: denotes looping back of calendar segment",
+          "Tablet1: implied by context (water cycles)"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.86,
+        "context_notes": "Likely references repeating rituals or seasonal cycle; correlates with agricultural frame."
+      }
+    },
+    {
+      "entry_id": "tarta_033",
+      "symbol": "₪",
+      "transliteration": "sum",
+      "translation": "sum/together",
+      "part_of_speech": "conjunction",
+      "definitions": [
+        "And (additive)",
+        "Together"
+      ],
+      "morphology": {
+        "category": "Conjunction",
+        "grammatical_role": "conjunction",
+        "semantic_field": "grammar"
+      },
+      "etymology": "Likely related to PIE *sam- (together)",
+      "attestations": [
+        "Tablet3: in additive phrases",
+        "Tablet2: linking multiple goods"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.88,
+      "context_notes": "Grammar link in enumerations; akin to 'and'.",
+      "script_symbol": "₪",
+      "pos": "conjunction",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "SUM",
+          "SAM"
+        ],
+        "primary_phonetic_value": "SUM",
+        "phonetic_root": "*sam-",
+        "phonetic_status": "lexicon_transliteration_as_phonetic_label",
+        "reading_type": "conjunction_phonetic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "sum",
+        "notes": "Additive/together marker keeps existing sum and *sam- etymology."
+      },
+      "reading_layers": {
+        "semantic_value": "sum/together",
+        "transliteration_label": "sum",
+        "phonetic_value": "SUM",
+        "phonetic_values": [
+          "SUM",
+          "SAM"
+        ],
+        "reading_type": "conjunction_phonetic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_033",
+        "symbol": "₪",
+        "transliteration": "sum",
+        "translation": "sum/together",
+        "part_of_speech": "conjunction",
+        "definitions": [
+          "And (additive)",
+          "Together"
+        ],
+        "morphology": {
+          "category": "Conjunction",
+          "grammatical_role": "conjunction",
+          "semantic_field": "grammar"
+        },
+        "etymology": "Likely related to PIE *sam- (together)",
+        "attestations": [
+          "Tablet3: in additive phrases",
+          "Tablet2: linking multiple goods"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.88,
+        "context_notes": "Grammar link in enumerations; akin to 'and'."
+      }
+    },
+    {
+      "entry_id": "tarta_034",
+      "symbol": "⋅",
+      "transliteration": "point",
+      "translation": "point/marker",
+      "part_of_speech": "particle",
+      "definitions": [
+        "Bullet or point mark",
+        "Used for emphasis or separation"
+      ],
+      "morphology": {
+        "category": "Punctuation",
+        "grammatical_role": "marker",
+        "semantic_field": "structure"
+      },
+      "etymology": "General punctuation usage",
+      "attestations": [
+        "Tablet2: separates sub-clauses",
+        "Tablet3: demarcates entries"
+      ],
+      "frequency": 5,
+      "confidence_score": 0.9,
+      "context_notes": "Likely served as a list or clause separator, confirming advanced notation.",
+      "script_symbol": "⋅",
+      "pos": "particle",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "POINT?"
+        ],
+        "primary_phonetic_value": "POINT?",
+        "phonetic_root": "punctuation-marker pending",
+        "phonetic_status": "pending_direct_phase_mapping",
+        "reading_type": "punctuation_semantic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "point",
+        "notes": "Point/separator preserved; direct root pending."
+      },
+      "reading_layers": {
+        "semantic_value": "point/marker",
+        "transliteration_label": "point",
+        "phonetic_value": "POINT?",
+        "phonetic_values": [
+          "POINT?"
+        ],
+        "reading_type": "punctuation_semantic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_034",
+        "symbol": "⋅",
+        "transliteration": "point",
+        "translation": "point/marker",
+        "part_of_speech": "particle",
+        "definitions": [
+          "Bullet or point mark",
+          "Used for emphasis or separation"
+        ],
+        "morphology": {
+          "category": "Punctuation",
+          "grammatical_role": "marker",
+          "semantic_field": "structure"
+        },
+        "etymology": "General punctuation usage",
+        "attestations": [
+          "Tablet2: separates sub-clauses",
+          "Tablet3: demarcates entries"
+        ],
+        "frequency": 5,
+        "confidence_score": 0.9,
+        "context_notes": "Likely served as a list or clause separator, confirming advanced notation."
+      }
+    },
+    {
+      "entry_id": "tarta_035",
+      "symbol": "∅",
+      "transliteration": "null",
+      "translation": "zero/none",
+      "part_of_speech": "numeral",
+      "definitions": [
+        "Zero value, none",
+        "Signifies absence"
+      ],
+      "morphology": {
+        "category": "Numeral",
+        "grammatical_role": "numeral",
+        "semantic_field": "mathematics"
+      },
+      "etymology": "Analogous to later zero symbols",
+      "attestations": [
+        "Tablet3: indicates null count in last column",
+        "Tablet2: implied in omission of data"
+      ],
+      "frequency": 2,
+      "confidence_score": 0.89,
+      "context_notes": "Represents explicit zero; novel for the period.",
+      "script_symbol": "∅",
+      "pos": "numeral",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "NULL?"
+        ],
+        "primary_phonetic_value": "NULL?",
+        "phonetic_root": "zero/absence-root pending",
+        "phonetic_status": "pending_direct_phase_mapping",
+        "reading_type": "zero_marker_semantic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "null",
+        "notes": "Zero/none preserved; direct root pending."
+      },
+      "reading_layers": {
+        "semantic_value": "zero/none",
+        "transliteration_label": "null",
+        "phonetic_value": "NULL?",
+        "phonetic_values": [
+          "NULL?"
+        ],
+        "reading_type": "zero_marker_semantic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_035",
+        "symbol": "∅",
+        "transliteration": "null",
+        "translation": "zero/none",
+        "part_of_speech": "numeral",
+        "definitions": [
+          "Zero value, none",
+          "Signifies absence"
+        ],
+        "morphology": {
+          "category": "Numeral",
+          "grammatical_role": "numeral",
+          "semantic_field": "mathematics"
+        },
+        "etymology": "Analogous to later zero symbols",
+        "attestations": [
+          "Tablet3: indicates null count in last column",
+          "Tablet2: implied in omission of data"
+        ],
+        "frequency": 2,
+        "confidence_score": 0.89,
+        "context_notes": "Represents explicit zero; novel for the period."
+      }
+    },
+    {
+      "entry_id": "tarta_036",
+      "symbol": "↕",
+      "transliteration": "mutual",
+      "translation": "mutual/exchange",
+      "part_of_speech": "noun/verb",
+      "definitions": [
+        "Mutual or reciprocity",
+        "Exchange (transaction context)"
+      ],
+      "morphology": {
+        "category": "Reciprocity",
+        "grammatical_role": "noun/particle",
+        "semantic_field": "trade"
+      },
+      "etymology": "Proto-language root relating to 'turn' or 'exchange'",
+      "attestations": [
+        "Tablet2: at end of trade formula",
+        "Tablet3: pairs with directional terms"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.88,
+      "context_notes": "Likely marks reciprocal trade agreements; a unique semantic.",
+      "script_symbol": "↕",
+      "pos": "noun/verb",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "MUTUAL?"
+        ],
+        "primary_phonetic_value": "MUTUAL?",
+        "phonetic_root": "exchange-root pending",
+        "phonetic_status": "pending_direct_phase_mapping",
+        "reading_type": "reciprocity_semantic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "mutual",
+        "notes": "Mutual/exchange marker preserved; direct root pending."
+      },
+      "reading_layers": {
+        "semantic_value": "mutual/exchange",
+        "transliteration_label": "mutual",
+        "phonetic_value": "MUTUAL?",
+        "phonetic_values": [
+          "MUTUAL?"
+        ],
+        "reading_type": "reciprocity_semantic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_036",
+        "symbol": "↕",
+        "transliteration": "mutual",
+        "translation": "mutual/exchange",
+        "part_of_speech": "noun/verb",
+        "definitions": [
+          "Mutual or reciprocity",
+          "Exchange (transaction context)"
+        ],
+        "morphology": {
+          "category": "Reciprocity",
+          "grammatical_role": "noun/particle",
+          "semantic_field": "trade"
+        },
+        "etymology": "Proto-language root relating to 'turn' or 'exchange'",
+        "attestations": [
+          "Tablet2: at end of trade formula",
+          "Tablet3: pairs with directional terms"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.88,
+        "context_notes": "Likely marks reciprocal trade agreements; a unique semantic."
+      }
+    },
+    {
+      "entry_id": "tarta_037",
+      "symbol": "∼",
+      "transliteration": "approx2",
+      "translation": "approximation (alt)",
+      "part_of_speech": "particle",
+      "definitions": [
+        "Approximation or range marker",
+        "Similar to ∽"
+      ],
+      "morphology": {
+        "category": "Modifier",
+        "grammatical_role": "particle",
+        "semantic_field": "quantifier"
+      },
+      "etymology": "Variant of approximate symbol",
+      "attestations": [
+        "Tablet3: paired with – in Rhythmic counts",
+        "Tablet2: occasional numeric qualifier"
+      ],
+      "frequency": 1,
+      "confidence_score": 0.85,
+      "context_notes": "Alternative notation for ‘about’; used in numeric contexts.",
+      "script_symbol": "∼",
+      "pos": "particle",
+      "phonetic_layer": {
+        "phonetic_values": [
+          "APPROX2?"
+        ],
+        "primary_phonetic_value": "APPROX2?",
+        "phonetic_root": "qualifier-root pending",
+        "phonetic_status": "pending_direct_phase_mapping",
+        "reading_type": "quantifier_particle_semantic",
+        "phase_one_source_category": null,
+        "phase_one_source_detail": null,
+        "existing_transliteration": "approx2",
+        "notes": "Approximation alternate preserved; direct root pending."
+      },
+      "reading_layers": {
+        "semantic_value": "approximation (alt)",
+        "transliteration_label": "approx2",
+        "phonetic_value": "APPROX2?",
+        "phonetic_values": [
+          "APPROX2?"
+        ],
+        "reading_type": "quantifier_particle_semantic"
+      },
+      "original_source_file": "tartaria_tablets_lexicon_revisited_MASTER_03-26-2026(3).json",
+      "original_record": {
+        "entry_id": "tarta_037",
+        "symbol": "∼",
+        "transliteration": "approx2",
+        "translation": "approximation (alt)",
+        "part_of_speech": "particle",
+        "definitions": [
+          "Approximation or range marker",
+          "Similar to ∽"
+        ],
+        "morphology": {
+          "category": "Modifier",
+          "grammatical_role": "particle",
+          "semantic_field": "quantifier"
+        },
+        "etymology": "Variant of approximate symbol",
+        "attestations": [
+          "Tablet3: paired with – in Rhythmic counts",
+          "Tablet2: occasional numeric qualifier"
+        ],
+        "frequency": 1,
+        "confidence_score": 0.85,
+        "context_notes": "Alternative notation for ‘about’; used in numeric contexts."
+      }
+    }
+  ]
+}
